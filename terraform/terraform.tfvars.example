@@ -1,0 +1,2 @@
+project_name = "jared-3tier"
+aws_region   = "ap-southeast-2"
