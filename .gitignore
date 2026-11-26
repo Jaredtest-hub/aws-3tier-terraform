@@ -1,4 +1,6 @@
 # Terraform
+tfplan
+*.zip
 .terraform/
 *.tfstate
 *.tfstate.*
