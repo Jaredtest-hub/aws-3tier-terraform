@@ -227,4 +227,5 @@ Review the destruction plan carefully before confirming.
 ---
 
 **Project:** AWS 3-Tier Infrastructure Deployment Using Terraform
+
 **Author:** Jared
